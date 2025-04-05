@@ -1,4 +1,4 @@
-Hospital Management Application
+An application for managing various data of a hospital. Written in TypeScript (Frontend) and JavaScript (Backend)
 
 Frontend utilizes React.js
 
